@@ -4,7 +4,7 @@
    return (
     <div className="content">
           <div className="background-line">
-            <img src="https://www.nationsonline.org/gallery/UAE/Desert-road-UAE.jpg"  className="background-line__img" />
+            <img src="https://img.freepik.com/free-photo/room-with-concrete-floor-and-smoke-background_9083-2991.jpg?size=626&ext=jpg"  className="background-line__img" />
           </div>
           <div>
             <div className='ava-box'>

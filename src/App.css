@@ -36,18 +36,24 @@
   transition: .2s;
   margin-bottom: 1rem;
 }
+
 .nav-link:hover {
   padding-left: 7px;
   color: orangered;
 }
+
 .content {
   grid-area: content;
   background-color: darkmagenta;
 }
-.background-line{
+
+.background-line {
   max-height: 250px;
   width: 100%;
+  display: flex;
+  overflow: hidden;
 }
+
 .background-line__img,
 .ava-box__img {
   height: auto;
@@ -55,7 +61,7 @@
   max-width: 100%;
 }
 
-.ava-box{
+.ava-box {
   width: 120px;
- 
+
 }
