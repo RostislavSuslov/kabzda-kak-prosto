@@ -1,0 +1,16 @@
+
+.item {
+    padding: 15px 15px 15px 20px;
+    background-color: #151b45;
+    margin-bottom: 12px;
+}
+
+.item.active {
+    font-family: "BlinkMacSystemFont";
+    color: tomato;
+}
+
+.item img {
+    max-width: 75px;
+    width: 100%;
+}

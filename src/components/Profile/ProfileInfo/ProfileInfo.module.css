@@ -1,0 +1,36 @@
+.backgroundLine {
+    max-height: 250px;
+    width: 100%;
+}
+
+.backgroundLine__img {
+    height: 320px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.avaBox__img {
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+}
+
+.subtitle {
+    font-size: 22px;
+    font-family: "JohnDoeW00-Regular";
+}
+
+.avaBox {
+    width: 120px;
+}
+
+.userInformation {
+    padding: 15px;
+    background-color: cyan;
+}
+
+.description {
+    color: #fff;
+    padding: 15px;
+    background-color: darksalmon;
+}

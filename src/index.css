@@ -1,13 +1,41 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a, button {
+    font-family: "SourceSansPro-Regular";
+}
+
+
+/*<new font>*/
+@import url(//db.onlinewebfonts.com/c/8a833da97d943acced2b2dbb7a6390d9?family=JohnDoeW00-Regular);
+@font-face {
+    font-family: "JohnDoeW00-Regular";
+    src: url("//db.onlinewebfonts.com/t/8a833da97d943acced2b2dbb7a6390d9.eot");
+    src: url("//db.onlinewebfonts.com/t/8a833da97d943acced2b2dbb7a6390d9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/8a833da97d943acced2b2dbb7a6390d9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/8a833da97d943acced2b2dbb7a6390d9.woff") format("woff"), url("//db.onlinewebfonts.com/t/8a833da97d943acced2b2dbb7a6390d9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/8a833da97d943acced2b2dbb7a6390d9.svg#JohnDoeW00-Regular") format("svg");
+}
+
+@font-face {
+    font-family: "MyriadProLight";
+    src: local("MyriadProLight"), url(./assets/fonts/MyriadProLight.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "NotoSans-Regular";
+    src: local("NotoSans-Regular"), url(./assets/fonts/NotoSans-Regular.ttf) format("ttf");
+}
+
+@font-face {
+    font-family: "SourceSansPro-Regular";
+    src: local("SourceSansPro-Regular"), url(./assets/fonts/SourceSansPro-Regular.ttf) format("ttf");
+}
+/*<new font>*/

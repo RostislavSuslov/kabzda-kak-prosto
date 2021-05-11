@@ -1,0 +1,10 @@
+.postContainer {
+  margin-top: 36px;
+  background-color: #d0e1ff;
+  padding: 15px;
+}
+
+.newPost {
+  padding: 30px 15px 30px 15px;
+  background-color: cornflowerblue;
+}

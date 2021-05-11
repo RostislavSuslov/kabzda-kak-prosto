@@ -1,0 +1,13 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: deepskyblue;
+    padding: 15px;
+}
+.dialog  {
+    color: #09265c;
+    background-color: #fff;
+}
+.dialog.active {
+    color: gold;
+}
