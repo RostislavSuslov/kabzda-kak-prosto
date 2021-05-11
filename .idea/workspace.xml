@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1r05rce7LkxZJjZoVGnCXu39r8x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Sidebar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\programs\WebStorm\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Leftbar" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Dialogs\Message" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Dialogs\DialogsItem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar\SidebarNav" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="" />
+      <created>1618100368404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618100368404</updated>
+      <workItem from="1618100370538" duration="2125000" />
+      <workItem from="1618157686174" duration="6117000" />
+      <workItem from="1618289356018" duration="3548000" />
+      <workItem from="1618374750841" duration="148000" />
+      <workItem from="1618375009371" duration="1517000" />
+      <workItem from="1618461786943" duration="3540000" />
+      <workItem from="1619346979794" duration="8491000" />
+      <workItem from="1619497813124" duration="4591000" />
+      <workItem from="1620504898308" duration="9568000" />
+      <workItem from="1620553313077" duration="2246000" />
+      <workItem from="1620619325857" duration="3903000" />
+      <workItem from="1620762089618" duration="1722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Settings/Settings.jsx</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Sidebar/SidebarNav/SidebarNav.jsx</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
