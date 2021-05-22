@@ -1,10 +1,10 @@
 import React from 'react';
-import moduleCSS from './Mesage.module.css';
+import moduleCSS from './Message.module.css';
 
 
 const Message = (props) => {
     return (
-        <div className={moduleCSS.dialog}>{props.message}</div>
+        <div className={moduleCSS.message}>{props.message}</div>
     )
 }
 

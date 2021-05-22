@@ -4,10 +4,9 @@
     background-color: deepskyblue;
     padding: 15px;
 }
-.dialog  {
+
+.dialog {
     color: #09265c;
     background-color: #fff;
 }
-.dialog.active {
-    color: gold;
-}
+

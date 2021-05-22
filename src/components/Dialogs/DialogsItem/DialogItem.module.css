@@ -1,0 +1,16 @@
+
+.dialogItem{
+    padding: 15px;
+    background-color: antiquewhite;
+}
+.dialogItemLink{
+  text-decoration: none;
+}
+
+.dialogItemLink:hover{
+color: gold;
+}
+
+.dialogItemLink.active {
+    color: gold;
+}
