@@ -26,11 +26,12 @@
 
 .userInformation {
     padding: 15px;
-    background-color: cyan;
+    box-shadow: -6px -6px 8px white, 5px 5px 8px #c9c9c9;
 }
 
 .description {
-    color: #fff;
-    padding: 15px;
-    background-color: darksalmon;
+    color: #000;
+    padding: 30px;
+    border: 1px solid #ebecf0;
+    box-shadow: inset 0px 0px 4px #ffffff00, inset 3px 3px 5px #3754aa26, inset -3px -3px 5px #ffffff80, 0px 0px 4px #ffffff33 !important;
 }
