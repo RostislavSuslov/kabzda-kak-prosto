@@ -1,16 +1,31 @@
 
-.dialogItem{
+.dialogItem {
     padding: 15px;
     background-color: antiquewhite;
 }
-.dialogItemLink{
-  text-decoration: none;
+
+.dialogItemLink {
+    text-decoration: none;
+    color: #555F76;
+    display: flex;
 }
 
-.dialogItemLink:hover{
-color: gold;
+.dialogItemLink:hover {
+    color: gold;
 }
 
 .dialogItemLink.active {
     color: gold;
+}
+
+.dialogItemImgBox {
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+}
+
+.dialogItemImg {
+    max-width: 48px;
+    width: 100%;
+    height: auto;
 }
