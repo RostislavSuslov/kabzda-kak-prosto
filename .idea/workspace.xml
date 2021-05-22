@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/UserPosts/UserPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/UserPosts/UserPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Sidebar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -72,7 +80,15 @@
       <workItem from="1620553313077" duration="2246000" />
       <workItem from="1620619325857" duration="3903000" />
       <workItem from="1620762089618" duration="477000" />
-      <workItem from="1620765632817" duration="330000" />
+      <workItem from="1620765632817" duration="931000" />
+      <workItem from="1621577827970" duration="246000" />
+      <workItem from="1621670837793" duration="1773000" />
+      <workItem from="1621672708261" duration="1404000" />
+      <workItem from="1621674594178" duration="53000" />
+      <workItem from="1621694365104" duration="111000" />
+      <workItem from="1621694791838" duration="58000" />
+      <workItem from="1621694851309" duration="1728000" />
+      <workItem from="1621696604759" duration="1270000" />
     </task>
     <servers />
   </component>
