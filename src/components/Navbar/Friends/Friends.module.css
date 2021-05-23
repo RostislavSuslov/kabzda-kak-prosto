@@ -1,4 +1,18 @@
 .friendsBlock{
     display: flex;
-    background-color: gold;
+    flex-wrap: wrap;
+    background-color: slateblue;
+}
+
+.friends_title{
+    font-size: 28px;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.friends_item{
+    font-size: 16px;
+    background-color: crimson;
+    width: 50px;
+    border-radius: 50%;
 }

@@ -1,22 +1,19 @@
 import React from 'react';
 import moduleCSS from './Friends.module.css';
-import ItemFriend from "./ItemFriend/ItemFriend";
-
-
+import FriendsItem from "./FriendsItem/FriendsItem";
 
 
 const Friends = (props) => {
 
-    let creatFriends =  props.state.sidebar.friends.friendsName.map(friends => <ItemFriend friendsName={friends.friendsName} />)
+    let friendsItem = props.state.friends.map(friend => <FriendsItem friendsName={friend.friendsName}/>)
 
     return (
         <div className={moduleCSS.friendsBlock}>
-            <h4>Friends</h4>
-            <nav>
-                {creatFriends}
-            </nav>
+            <div className={moduleCSS.friends_title}>Friends</div>
+            <div className={moduleCSS.friends_item}>
+                {friendsItem}
+            </div>
         </div>
-
     )
 }
 

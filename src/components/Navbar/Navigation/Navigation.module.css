@@ -1,6 +1,6 @@
-.nav{
-    display: flex;flex-direction: column;
-    background-color: #151b45;
+.nav {
+    display: flex;
+    flex-direction: column;
 }
 
 .navLink {
