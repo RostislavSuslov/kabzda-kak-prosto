@@ -32,6 +32,12 @@ let state = {
             {id: 7, message: 'fack off!'},
         ],
     },
-    sidebar : {},
+    sidebar : {
+        friends: [
+            {friendsName: "Artem"},
+            {friendsName: "Anelia"},
+            {friendsName: "Andry"},
+        ],
+    },
 }
 export default state;

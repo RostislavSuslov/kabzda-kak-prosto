@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/Friends.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/Friends.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/ItemFriend/ItemFriend.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/ItemFriend/ItemFriend.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/DialogsItem/DialogItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsItem/DialogItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/DialogsItem/DialogItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsItem/DialogItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +37,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1r05rce7LkxZJjZoVGnCXu39r8x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Navbar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -46,13 +59,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\Navigation" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Leftbar" />
-      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Dialogs\Message" />
-      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Dialogs\DialogsItem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\ItemFriends" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar\SidebarNav" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar" />
     </key>
@@ -92,7 +106,11 @@
       <workItem from="1621712669489" duration="1591000" />
       <workItem from="1621714538014" duration="1661000" />
       <workItem from="1621717561268" duration="1785000" />
-      <workItem from="1621719372575" duration="923000" />
+      <workItem from="1621719372575" duration="1803000" />
+      <workItem from="1621721202426" duration="1783000" />
+      <workItem from="1621723022260" duration="1829000" />
+      <workItem from="1621724879857" duration="2584000" />
+      <workItem from="1621727501038" duration="1668000" />
     </task>
     <servers />
   </component>
