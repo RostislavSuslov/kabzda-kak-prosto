@@ -5,10 +5,11 @@ import Friends from "./Friends/Friends";
 
 
 const Navbar = (props) => {
+
     return (
         <div className={moduleCSS.sidebar}>
             <Navigation/>
-            <Friends state={props.state.sidebar}/>
+            <Friends state={props.state}/>
         </div>
     )
 }

@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/FriendsItem/FriendsItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/FriendsItem/FriendsItem.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Friends/Friends.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/Friends.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Friends/Friends.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Friends/Friends.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Friends/ItemFriend/ItemFriend.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Friends/ItemFriend/ItemFriend.module.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +100,8 @@
       <workItem from="1621797003109" duration="1778000" />
       <workItem from="1621798812974" duration="1780000" />
       <workItem from="1621800619812" duration="2003000" />
-      <workItem from="1621802652845" duration="1326000" />
+      <workItem from="1621802652845" duration="1700000" />
+      <workItem from="1621804460989" duration="1694000" />
     </task>
     <servers />
   </component>
