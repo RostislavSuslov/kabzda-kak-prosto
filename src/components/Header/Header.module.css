@@ -2,7 +2,7 @@
 .header {
     grid-area: header;
     border-radius: 0 0 12px 12px;
-    box-shadow: -6px -6px 8px white, 5px 5px 8px #c9c9c9;
+    box-shadow: 6px 0px 4px #c9c9c9;
 }
 
 .header img {

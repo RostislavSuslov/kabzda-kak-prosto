@@ -15,9 +15,9 @@ const ProfileInfo = () => {
                 Amathing Bastard!)
             </div>
             <div className={moduleCSS.description}>
-                description lorem10 description lorem10 description lorem10 description lorem10 description lorem10
-                description
-                lorem10
+                <p>Гетто - части крупных городов, отведенные для добровольного или принудительного проживания меньшинств, в современном мире в результате социального, правового или экономического давления.</p>
+                <p>Городские районы в США часто могут быть классифицированы как «чёрные» или «белые», жителей которых, прежде всего, объединяет принадлежность к одной расовой группе.</p>
+
             </div>
         </div>
     )

@@ -1,18 +1,23 @@
-.friendsBlock{
+.friendsBlock {
     display: flex;
     flex-wrap: wrap;
-    background-color: slateblue;
+    background-color: #f0f2f5;
+    margin: 0 0px;
+    padding: 24px 15px 0;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    box-shadow: inset -1px -5px 3px #ffffffb0, inset 0px 1px 2px #5e6879b0;
 }
 
-.friends_title{
+.friends_title {
     font-size: 28px;
     width: 100%;
     margin-bottom: 24px;
+    color: #d3d7e4;
+    text-shadow: 1px 1px 1px #fff;
+    font-weight: 700;
 }
 
-.friends_item{
-    font-size: 16px;
-    background-color: crimson;
-    width: 50px;
-    border-radius: 50%;
+.friendsBox {
+    display: flex;
 }
