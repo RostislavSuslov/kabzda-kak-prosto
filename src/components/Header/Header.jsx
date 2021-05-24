@@ -4,7 +4,7 @@
  const Header =()=> {
    return (
     <header className={moduleCSS.header}>
-        <img src="https://cdn.designrush.com/uploads/inspiration_images/4357/990__1511457567_293_United%20Technologies.png" />
+        <img src="https://www.hommeet.com/wp-content/uploads/2020/06/logo-02.png" />
     </header>
    )
  }
