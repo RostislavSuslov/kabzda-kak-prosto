@@ -10,10 +10,8 @@ import Settings from "./components/Settings/Settings";
 
 const App = (props) => {
     return (
-        <BrowserRouter>
             <div className="app-wrapper">
                 <Header/>
-
                 <Navbar state={props.state.sidebar}/>
                 <div className="content">
                     <Route path='/dialogs' render={ ()=> <Dialogs state={props.state.dialogsPage} /> }/>
@@ -23,7 +21,6 @@ const App = (props) => {
                     <Route path='/settings' render={ ()=> <Settings/> }/>
                 </div>
             </div>
-        </BrowserRouter>
     );
 };
 export default App;

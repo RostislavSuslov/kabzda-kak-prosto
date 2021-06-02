@@ -1,0 +1,77 @@
+
+/*допилить стили*/
+.shaTempBody {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: inset 4px 4px 6px -1px #00000033, inset -4px -4px 6px -1px #ffffffb3;
+    padding: 14px 9px;
+}
+
+.shaTempBody:hover .shaTemp__infoBox_data{
+    color: orangered;
+}
+
+.shaTemp{
+    position: relative;
+    display: inline-block;
+    width: 230px;
+    height: 230px;
+    border-radius: 100%;
+    text-align: center;
+    box-shadow: 30px 30px 30px -10px #0000001a, -30px -30px 30px -10px #ffffff66, -0.5px -0.5px 0 #ffffff, 0.5px 0.5px 0 #00000005;
+}
+
+.shaTemp:before {
+    position: absolute;
+    content: '';
+    display: block;
+    width: 88%;
+    height: 88%;
+    border-radius: inherit;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    box-shadow: inset 4px 4px 6px -1px #00000033, inset -4px -4px 6px -1px #ffffffb3;
+}
+
+
+.shaTemp:after {
+    position: absolute;
+    content: '';
+    display: block;
+    width: 78%;
+    height: 78%;
+    border-radius: inherit;
+    left: 50%;
+    top: 50%;
+    background-color: #00000006;
+    border: 1px solid #00000003;
+    transform: translateX(-50%) translateY(-50%);
+    box-shadow: inset 4px 4px 6px -1px #00000033, inset -4px -4px 6px -1px #ffffffb3;
+}
+
+.shaTemp__infoBox {
+    position: relative;
+    display: inline-block;
+    top: 50%;
+    transform: translateY(-60%);
+}
+
+.shaTemp__infoBox_data {
+    font-size: 60px;
+    font-weight: 600;
+    display: block;
+    color: #31456a;
+}
+
+.shaTemp__infoBox_info {
+     position: absolute;
+     font-size: 14px;
+     font-weight: 500;
+     color: #31456a99;
+     white-space: nowrap;
+     bottom: -10px;
+     left: 50%;
+     transform: translateX(-50%);
+ }

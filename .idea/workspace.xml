@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/CircleDisplay/CircleDisplay.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/CircleDisplay/CircleDisplay.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navigation/Navigation.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Navbar/Friends/FriendsItem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Navbar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,8 +52,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\Friends\FriendsItem" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar" />
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\Friends\FriendsItem" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\Navigation" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components" />
@@ -109,7 +113,17 @@
       <workItem from="1621885891114" duration="1795000" />
       <workItem from="1621887713356" duration="1899000" />
       <workItem from="1621889695953" duration="1563000" />
-      <workItem from="1621891505302" duration="1529000" />
+      <workItem from="1621891505302" duration="1926000" />
+      <workItem from="1621893463261" duration="875000" />
+      <workItem from="1622317002434" duration="1782000" />
+      <workItem from="1622318822134" duration="1518000" />
+      <workItem from="1622320839431" duration="347000" />
+      <workItem from="1622321707045" duration="1843000" />
+      <workItem from="1622323580400" duration="913000" />
+      <workItem from="1622365683552" duration="142000" />
+      <workItem from="1622366331083" duration="1912000" />
+      <workItem from="1622442874669" duration="828000" />
+      <workItem from="1622459007537" duration="599000" />
     </task>
     <servers />
   </component>
@@ -126,6 +140,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/Sidebar/SidebarNav/SidebarNav.jsx</url>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

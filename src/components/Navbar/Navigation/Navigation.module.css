@@ -5,6 +5,11 @@
     text-align: right;
 }
 
+.nav .active {
+    padding-left: 10px;
+    color: orangered;
+}
+
 .navLink {
     text-decoration: none;
     font-size: 18px;
@@ -21,7 +26,3 @@
     color: orangered;
 }
 
-.show {
-    padding-left: 10px;
-    color: beige;
-}
