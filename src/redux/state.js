@@ -8,6 +8,7 @@ let state = {
             {id: 5, message: 'gotta go!', likesCount: 541},
             {id: 6, message: 'Good morning!', likesCount: 77},
             {id: 7, message: 'С возвращением!!!', likesCount: 123},
+            {id: 8, message: 'Наш новый пост', likesCount: 4},
         ],
     },
     dialogsPage : {
@@ -37,13 +38,6 @@ let state = {
             {friendsName: 'Artem Buba', src: 'https://ireland.apollo.olxcdn.com/v1/files/lwjzg3hk5rfb2-UA/image;s=1000x700',},
             {friendsName: 'Anelia Gachenko', src: 'https://shapka-youtube.ru/wp-content/uploads/2021/02/prikolnaya-avatarka-dlya-devushek.jpg',},
             {friendsName: 'Andry Steblina', src: 'https://whatsism.com/uploads/posts/2018-07/1530546770_rmk_vdjbx10.jpg',},
-
-
-
-
-
-
-
         ],
     },
 }
