@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ea084f-f64e-4098-8879-0ceb665bc032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/render.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/News/News.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/UserPosts/UserPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/UserPosts/UserPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Navbar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -49,11 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\Friends\FriendsItem" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\Navigation" />
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Sidebar" />
-      <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaScript\it-kamasutra\kabzda-kak-prosto\src\components\Navbar\ItemFriends" />
@@ -123,6 +124,15 @@
       <workItem from="1622459007537" duration="599000" />
       <workItem from="1622612508899" duration="3788000" />
       <workItem from="1623000168280" duration="73000" />
+      <workItem from="1623007493805" duration="1777000" />
+      <workItem from="1623009314769" duration="1820000" />
+      <workItem from="1623011164703" duration="875000" />
+      <workItem from="1623092689044" duration="1804000" />
+      <workItem from="1623094528035" duration="1739000" />
+      <workItem from="1623096436997" duration="1845000" />
+      <workItem from="1623098368575" duration="596000" />
+      <workItem from="1623099205295" duration="793000" />
+      <workItem from="1623101594523" duration="144000" />
     </task>
     <servers />
   </component>
@@ -139,11 +149,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/Sidebar/SidebarNav/SidebarNav.jsx</url>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/App.js</url>
-          <line>14</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

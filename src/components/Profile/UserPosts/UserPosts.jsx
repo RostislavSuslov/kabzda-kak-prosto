@@ -7,9 +7,13 @@ const UserPosts = (props) => {
     let postElements = props.postsData.map(post => <Post id={post.id} message={post.message} like={post.likesCount}/>)
     let newPostElement = React.createRef();
 
+
+    /*этот addPost, это локальная ф-я, а не та что находится в state.js, но мы в ней вызываем тот addPost из index.js*/
     let addPost = () =>{
         let text = newPostElement.current.value;
-        alert(text);
+        props.addPost(text);
+         // input.oninput
+        newPostElement.current.value= '';
     }
 
     return (
